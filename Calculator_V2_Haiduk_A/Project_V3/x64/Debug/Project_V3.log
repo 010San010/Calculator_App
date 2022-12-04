@@ -1,0 +1,7 @@
+﻿  Source_V3.cpp
+C:\Users\PC\Desktop\Лабы\Calculator\Project_V3\Source_V3.cpp(77,46): warning C4244: аргумент: преобразование "_Ty" в "char", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+  Project_V3.vcxproj -> C:\Users\PC\Desktop\Лабы\Calculator\x64\Debug\Project_V3.exe
